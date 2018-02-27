@@ -1,0 +1,2 @@
+# usewp
+WordPress theme
